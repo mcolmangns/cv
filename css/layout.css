@@ -262,9 +262,7 @@ ul#nav li.current a { color: #F06000; }
    margin-top: 6px;
 }
 
-/*----------------------------------------------*/
-/*	Skill Bars
-/*----------------------------------------------*/
+
 
 .bars {
 	width: 95%;
@@ -331,10 +329,10 @@ ul#nav li.current a { color: #F06000; }
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.python {
+  	width: 65%;
+  	-moz-animation: python 2s ease;
+  	-webkit-animation: python 2s ease;
 }
 
 @-moz-keyframes photoshop {
@@ -357,9 +355,9 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 75%;  }
 }
-@-moz-keyframes jquery {
+@-moz-keyframes python {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 65%;  }
 }
 
 @-webkit-keyframes photoshop {
@@ -382,9 +380,9 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 75%;  }
 }
-@-webkit-keyframes jquery {
+@-webkit-keyframes python {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 65%;  }
 }
 
 
